@@ -1,0 +1,16 @@
+{
+  "name": "stellar-lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "StellarLib.js",
+  "scripts": {
+    "start": "nodemon StellarLib.js",
+    "test": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.2",
+    "stellar-sdk": "^3.3.0"
+  }
+}
